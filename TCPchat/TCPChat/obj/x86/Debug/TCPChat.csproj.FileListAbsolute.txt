@@ -1,0 +1,7 @@
+C:\TH\TCPChat\TCPChat\bin\Debug\TCPChat.exe
+C:\TH\TCPChat\TCPChat\bin\Debug\TCPChat.pdb
+C:\TH\TCPChat\TCPChat\obj\x86\Debug\TCPChat.TCPChat.resources
+C:\TH\TCPChat\TCPChat\obj\x86\Debug\TCPChat.Properties.Resources.resources
+C:\TH\TCPChat\TCPChat\obj\x86\Debug\TCPChat.csproj.GenerateResource.Cache
+C:\TH\TCPChat\TCPChat\obj\x86\Debug\TCPChat.exe
+C:\TH\TCPChat\TCPChat\obj\x86\Debug\TCPChat.pdb

@@ -1,0 +1,13 @@
+D:\BTC4\serverTCPchat\obj\Debug\serverTCPchat.csproj.CoreCompileInputs.cache
+D:\BTC4\serverTCPchat\bin\Debug\serverTCPchat.exe.config
+D:\BTC4\serverTCPchat\bin\Debug\serverTCPchat.exe
+D:\BTC4\serverTCPchat\bin\Debug\serverTCPchat.pdb
+D:\BTC4\serverTCPchat\obj\Debug\serverTCPchat.exe
+D:\BTC4\serverTCPchat\obj\Debug\serverTCPchat.pdb
+E:\NetworkP_Saved\2051012102_NguyenMinhTai_Btc5\BTC4\serverTCPchat\bin\Debug\serverTCPchat.exe.config
+E:\NetworkP_Saved\2051012102_NguyenMinhTai_Btc5\BTC4\serverTCPchat\bin\Debug\serverTCPchat.exe
+E:\NetworkP_Saved\2051012102_NguyenMinhTai_Btc5\BTC4\serverTCPchat\bin\Debug\serverTCPchat.pdb
+E:\NetworkP_Saved\2051012102_NguyenMinhTai_Btc5\BTC4\serverTCPchat\obj\Debug\serverTCPchat.csproj.AssemblyReference.cache
+E:\NetworkP_Saved\2051012102_NguyenMinhTai_Btc5\BTC4\serverTCPchat\obj\Debug\serverTCPchat.csproj.CoreCompileInputs.cache
+E:\NetworkP_Saved\2051012102_NguyenMinhTai_Btc5\BTC4\serverTCPchat\obj\Debug\serverTCPchat.exe
+E:\NetworkP_Saved\2051012102_NguyenMinhTai_Btc5\BTC4\serverTCPchat\obj\Debug\serverTCPchat.pdb
