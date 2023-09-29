@@ -2,7 +2,7 @@
 
 ## Giao diện winform c#
 <p align="center">
-    <img src="https://res.cloudinary.com/dl3hvap4a/image/upload/v1695998642/h%C3%ACnh_%E1%BA%A3nh_2023-09-29_214351685_iq2eul.png" style="width:20rem; height:650px" />
+    <img src="https://res.cloudinary.com/dl3hvap4a/image/upload/v1695998642/h%C3%ACnh_%E1%BA%A3nh_2023-09-29_214351685_iq2eul.png" style="width:80rem; height:650px" />
 </p>
 
 ## Video demo
